@@ -1,0 +1,202 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="cda1bc47-7640-4f60-b6b7-fb36aec21f12" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="ProjectId" id="1cxSuE60xXY8VCIhrqKnbbzF3C4" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="reference.settingsdialog.project.gradle" />
+    <property name="show.inlinked.gradle.project.popup" value="false" />
+  </component>
+  <component name="RunManager" selected="Kotlin.bot.SimpleBotKt">
+    <configuration name="TaskKt (1)" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
+      <module name="Simple_Chatty_Bot.Problems-Right_equation.main" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" value="TaskKt" />
+      <option name="WORKING_DIRECTORY" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TaskKt (2)" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
+      <module name="Simple_Chatty_Bot.Problems-Get_last_digit.main" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" value="TaskKt" />
+      <option name="WORKING_DIRECTORY" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TaskKt (3)" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
+      <module name="Simple_Chatty_Bot.Problems-Vowel_or_not.main" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" value="TaskKt" />
+      <option name="WORKING_DIRECTORY" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TaskKt (4)" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
+      <module name="Simple_Chatty_Bot.Problems-Division.main" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" value="TaskKt" />
+      <option name="WORKING_DIRECTORY" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="bot.SimpleBotKt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
+      <module name="Simple_Chatty_Bot.Simple_Chatty_Bot-task.main" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" value="bot.SimpleBotKt" />
+      <option name="WORKING_DIRECTORY" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Kotlin.bot.SimpleBotKt" />
+        <item itemvalue="Kotlin.TaskKt (4)" />
+        <item itemvalue="Kotlin.TaskKt (3)" />
+        <item itemvalue="Kotlin.TaskKt (2)" />
+        <item itemvalue="Kotlin.TaskKt (1)" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="cda1bc47-7640-4f60-b6b7-fb36aec21f12" name="Default Changelist" comment="" />
+      <created>1591468972111</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1591468972111</updated>
+      <workItem from="1591468974657" duration="427000" />
+      <workItem from="1591469434703" duration="42000" />
+      <workItem from="1591469552517" duration="343000" />
+      <workItem from="1591469906452" duration="60000" />
+      <workItem from="1591469978134" duration="71000" />
+      <workItem from="1591470060679" duration="2183000" />
+      <workItem from="1591485384710" duration="226000" />
+      <workItem from="1591485621968" duration="2010000" />
+      <workItem from="1591532115230" duration="2306000" />
+      <workItem from="1591565270383" duration="777000" />
+      <workItem from="1591706003204" duration="1763000" />
+      <workItem from="1591707800086" duration="335000" />
+      <workItem from="1591708506652" duration="866000" />
+      <workItem from="1591715750328" duration="1319000" />
+      <workItem from="1591721422259" duration="3517000" />
+      <workItem from="1591740519426" duration="464000" />
+      <workItem from="1591790040035" duration="2804000" />
+      <workItem from="1591801426910" duration="10119000" />
+      <workItem from="1591820266581" duration="903000" />
+      <workItem from="1591821277878" duration="1823000" />
+      <workItem from="1591829461710" duration="576000" />
+      <workItem from="1591882428540" duration="359000" />
+      <workItem from="1591890925651" duration="10561000" />
+      <workItem from="1591907058587" duration="2605000" />
+      <workItem from="1591971113925" duration="2571000" />
+      <workItem from="1591977694394" duration="1183000" />
+      <workItem from="1591985002599" duration="1201000" />
+      <workItem from="1592075522202" duration="3675000" />
+      <workItem from="1592137733734" duration="1681000" />
+      <workItem from="1592140317009" duration="420000" />
+      <workItem from="1592142126131" duration="1831000" />
+      <workItem from="1592147766795" duration="3864000" />
+      <workItem from="1592160430775" duration="3994000" />
+      <workItem from="1592232455479" duration="342000" />
+      <workItem from="1592236002820" duration="6640000" />
+      <workItem from="1592248940250" duration="2282000" />
+      <workItem from="1592252423233" duration="2359000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state width="1876" height="203" key="GridCell.Tab.0.bottom" timestamp="1592253784901">
+      <screen x="1920" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1876" height="203" key="GridCell.Tab.0.bottom/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1592252041930" />
+    <state width="1876" height="203" key="GridCell.Tab.0.bottom/0.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1592253784901" />
+    <state width="1876" height="203" key="GridCell.Tab.0.center" timestamp="1592253784901">
+      <screen x="1920" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1876" height="203" key="GridCell.Tab.0.center/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1592252041930" />
+    <state width="1876" height="203" key="GridCell.Tab.0.center/0.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1592253784901" />
+    <state width="1876" height="203" key="GridCell.Tab.0.left" timestamp="1592253784901">
+      <screen x="1920" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1876" height="203" key="GridCell.Tab.0.left/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1592252041929" />
+    <state width="1876" height="203" key="GridCell.Tab.0.left/0.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1592253784901" />
+    <state width="1876" height="203" key="GridCell.Tab.0.right" timestamp="1592253784901">
+      <screen x="1920" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1876" height="203" key="GridCell.Tab.0.right/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1592252041930" />
+    <state width="1876" height="203" key="GridCell.Tab.0.right/0.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1592253784901" />
+    <state width="1876" height="158" key="GridCell.Tab.1.bottom" timestamp="1592151690600">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1876" height="158" key="GridCell.Tab.1.bottom/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1592151690600" />
+    <state width="1876" height="158" key="GridCell.Tab.1.center" timestamp="1592151690600">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1876" height="158" key="GridCell.Tab.1.center/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1592151690600" />
+    <state width="1876" height="158" key="GridCell.Tab.1.left" timestamp="1592151690600">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1876" height="158" key="GridCell.Tab.1.left/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1592151690600" />
+    <state width="1876" height="158" key="GridCell.Tab.1.right" timestamp="1592151690600">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1876" height="158" key="GridCell.Tab.1.right/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1592151690600" />
+    <state x="547" y="75" key="SettingsEditor" timestamp="1591470161140">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="547" y="75" key="SettingsEditor/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1591470161140" />
+  </component>
+</project>
